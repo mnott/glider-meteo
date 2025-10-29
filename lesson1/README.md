@@ -187,4 +187,4 @@ Understanding these local conditions is essential for safe operations at your ho
 
 ---
 
-**Next**: [Lesson 2](../lesson2/README.md) (Coming soon) - Moisture, Clouds, and Precipitation
+**Next**: [Lesson 2](../lesson2/README.md) - Moisture, Clouds, and Precipitation
