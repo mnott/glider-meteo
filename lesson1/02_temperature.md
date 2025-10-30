@@ -33,11 +33,27 @@ Here is a simple way to calculate between F and C:
 - C=>F: Times 2, minus 10%, +32
 - F=>C: -32, Divided by 2, +10%
 
-Why Fahrenheit chose 32°: Daniel Fahrenheit originally set:
+#### Why Fahrenheit chose 32°: Daniel Fahrenheit originally set:
 
 - **0°F** = coldest temperature he could create (salt-ice mixture)
 - **32°F** = water freezing point
 - **212°F** = water boiling point
+
+#### Why 180 degrees instead of 100?
+
+Fahrenheit wanted **more precision** by using **smaller degree units**. He chose to divide the freezing-to-boiling range into **180 parts** instead of Celsius's **100 parts**.
+
+**The math**:
+
+- 180 ÷ 100 = **1.8** = **9/5**
+- This is why the conversion factor is 9/5!
+#### Why specifically 180?
+
+This is speculation, but sound good: Fahrenheit liked the number **180** because:
+
+- It divides evenly by many numbers (2, 3, 4, 5, 6, 9, 10, 12, 15, 18, 20, 30, 36, 45, 60, 90...)
+- Better for fractional measurements in his era
+- More "resolution" between important temperatures
 
 ### [Kelvin](https://en.wikipedia.org/wiki/Kelvin) (K)
 - Absolute temperature scale (no negative values)
