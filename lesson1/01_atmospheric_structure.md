@@ -47,6 +47,7 @@ The atmosphere consists of three main components:
 The atmosphere is divided into layers based on [temperature profiles](https://en.wikipedia.org/wiki/Atmosphere_of_Earth#Principal_layers):
 
 ### [Troposphere](https://en.wikipedia.org/wiki/Troposphere) (Troposphère)
+
 - **Extends from surface to ~8-18 km** (varies by latitude)
 - **At our latitudes: 10-12 km thick**
 - Temperature **decreases** with altitude at ~6.5°C per 1000m ([lapse rate](https://en.wikipedia.org/wiki/Lapse_rate))
@@ -57,6 +58,10 @@ The atmosphere is divided into layers based on [temperature profiles](https://en
 **What this means**: The troposphere is named from Greek "tropos" (turning/mixing) because air constantly mixes vertically here. The decreasing temperature with altitude creates instability - warm air at the surface rises through cooler air above, creating convection currents (thermals!). This is YOUR domain as a glider pilot.
 
 **Why the tropopause matters**: The tropopause acts as a "lid" on the troposphere. Air cannot easily penetrate it, so cloud tops and thermal activity stop here. On a good soaring day, you might see cumulus clouds with flat tops at the tropopause level.
+
+**For pilots**: Your altimeter uses this standard lapse rate for calibration, and aircraft performance calculations depend on this temperature-altitude relationship. The lapse rate represents the stable balance between gravitational compression and thermal expansion in Earth's atmosphere.
+
+**Physical Explanation** [here](theory/01%20-%20laps%20rate.md) is a more detailed derivation of the laps rate.
 
 ### [Stratosphere](https://en.wikipedia.org/wiki/Stratosphere) (Stratosphère)
 - Extends from tropopause to ~50 km
