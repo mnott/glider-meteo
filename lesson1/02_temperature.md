@@ -118,6 +118,15 @@ Temperature changes occur through four main [heat transfer](https://en.wikipedia
   - Coldest months: January-February (Northern Hemisphere)
 
 ### Influence of Surface Type ([Albedo](https://en.wikipedia.org/wiki/Albedo))
+
+**Albedo** = The percentage of incoming solar radiation that a surface **reflects back** rather than absorbs
+
+**"Albedo"** comes from **Latin**:
+- **"Albedo"** = "whiteness" or "white color"
+- **Root**: **"Albus"** = "white"
+
+**Scale**: 0.0 (perfect absorber) to 1.0 (perfect reflector), often expressed as percentage
+
 - **Dark surfaces** (asphalt, plowed fields): Low albedo, absorb more heat, warm faster
 - **Light surfaces** (snow, sand): High albedo, reflect more heat, warm less
 - **Water bodies**: Warm and cool slowly (high heat capacity)
@@ -128,6 +137,8 @@ Temperature changes occur through four main [heat transfer](https://en.wikipedia
 - **Forests**: Moderate heating, often mark edges of thermals
 - **Lakes**: Poor thermal sources (water heats slowly)
 - **Snow fields**: Avoid! They cool the air, creating sink
+
+So when you see **white/light surfaces** while flying, remember the Latin **"albus"** - they're reflecting most of the sun's energy away instead of creating the heat you need for thermals!
 
 **Thermal trigger strategy**: Look for dark surfaces under sunny skies - that's where thermals form first and strongest!
 
