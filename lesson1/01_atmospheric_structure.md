@@ -33,6 +33,33 @@ The atmosphere consists of three main components:
 
 **What this means**: Unlike dry air components, water vapor varies dramatically by location (desert vs. ocean) and altitude (decreases with height). When air rises and cools, water vapor condenses into visible clouds - this is essential for understanding soaring conditions.
 
+**Desert Flying (Low Water Vapor)**:
+
+- **"Blue thermals"**: Strong thermals with NO visible clouds - air never reaches condensation level
+- **Very high cloud bases**: IF clouds form, they're typically 4000m+ above ground
+- **Excellent visibility**: Crystal clear air, can see for hundreds of kilometers
+- **Harder thermal location**: No cumulus to mark where thermals are - must rely on ground features, birds, dust devils
+- **Stronger surface heating**: Dry ground heats more intensely than water
+
+**Ocean Flying (High Water Vapor)**:
+
+- **Easy thermal identification**: Cumulus clouds clearly mark every thermal column
+- **Lower cloud bases**: Typically 800-2000m above surface due to high humidity
+- **Reduced visibility**: Hazy conditions from water vapor in air
+- **Predictable patterns**: Cloud streets form easily, showing organized lift
+- **Weaker but consistent thermals**: Ocean provides steady but gentler heating
+
+**The Physics**:
+
+- **Dewpoint**: Ocean air reaches condensation at lower altitude (high humidity)
+- **Condensation level**: Desert air must rise much higher before water vapor condenses
+- **Latent heat**: Ocean thermals get extra boost when water vapor condenses (releases energy)
+
+**Strategy Implications**:
+
+- **Desert**: Fly by ground features, watch for subtle indicators, expect "invisible" lift
+- **Ocean**: Follow cloud streets, use cumulus as thermal markers, plan for lower working altitudes
+
 ### 3. [Aerosols](https://en.wikipedia.org/wiki/Aerosol) (Aérosols)
 - Dust particles - poussières
 - Sand - sable
