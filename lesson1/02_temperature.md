@@ -33,6 +33,12 @@ Here is a simple way to calculate between F and C:
 - C=>F: Times 2, minus 10%, +32
 - F=>C: -32, Divided by 2, +10%
 
+Why Fahrenheit chose 32°: Daniel Fahrenheit originally set:
+
+- **0°F** = coldest temperature he could create (salt-ice mixture)
+- **32°F** = water freezing point
+- **212°F** = water boiling point
+
 ### [Kelvin](https://en.wikipedia.org/wiki/Kelvin) (K)
 - Absolute temperature scale (no negative values)
 - **0 K** = [absolute zero](https://en.wikipedia.org/wiki/Absolute_zero) (-273.15°C) - lowest possible temperature
