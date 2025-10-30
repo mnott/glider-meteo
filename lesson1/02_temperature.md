@@ -49,7 +49,7 @@ Fahrenheit wanted **more precision** by using **smaller degree units**. He ch
 - This is why the conversion factor is 9/5!
 #### Why specifically 180?
 
-This is speculation, but sound good: Fahrenheit liked the number **180** because:
+Speculative, but: Fahrenheit liked the number **180** because:
 
 - It divides evenly by many numbers (2, 3, 4, 5, 6, 9, 10, 12, 15, 18, 20, 30, 36, 45, 60, 90...)
 - Better for fractional measurements in his era
