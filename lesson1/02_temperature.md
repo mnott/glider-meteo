@@ -28,6 +28,11 @@ Three main [temperature scales](https://en.wikipedia.org/wiki/Temperature#Scales
 - Conversion: °F = (°C × 9/5) + 32
 - Example: 15°C = 59°F
 
+Here is a simple way to calculate between F and C:
+
+- C=>F: Times 2, minus 10%, +32
+- F=>C: -32, Divided by 2, +10%
+
 ### [Kelvin](https://en.wikipedia.org/wiki/Kelvin) (K)
 - Absolute temperature scale (no negative values)
 - **0 K** = [absolute zero](https://en.wikipedia.org/wiki/Absolute_zero) (-273.15°C) - lowest possible temperature
