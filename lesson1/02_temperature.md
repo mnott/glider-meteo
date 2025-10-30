@@ -111,6 +111,9 @@ Temperature changes occur through four main [heat transfer](https://en.wikipedia
 ## Temperature Variations
 
 ### [Diurnal Cycle](https://en.wikipedia.org/wiki/Diurnal_temperature_variation) (Cycle diurne)
+
+**"Diurnal"** comes from the Latin word "diurnus" meaning "of the day" or "daily" (root: "dies" = day), so diurnal cycle refers to the daily pattern of temperature changes that occurs over a 24-hour period, with minimum temperatures typically around sunrise and maximum temperatures in mid-afternoon, making this daily rhythm critical for understanding when thermals develop and dissipate during each flying day.
+
 - **Minimum temperature (Tmin)**: around sunrise (~6h)
 - **Maximum temperature (Tmax)**: mid-afternoon (~14-15h), **NOT at solar noon**
   - Ground must first absorb solar energy, then heat the air
