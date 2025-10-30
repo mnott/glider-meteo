@@ -159,4 +159,4 @@ Temperature changes occur through four main [heat transfer](https://en.wikipedia
 
 ---
 
-*Related topics*: [Atmospheric Structure](01_atmospheric_structure.md), [Pressure](03_pressure.md), [ISA Standard Atmosphere](05_isa_standard_atmosphere.md)
+*Related topics*: [Atmospheric Structure](🧠%20Ideaverse/Segelflug/Theorie/Meteo/lesson1/01_atmospheric_structure.md), [Pressure](03_pressure.md), [ISA Standard Atmosphere](05_isa_standard_atmosphere.md)

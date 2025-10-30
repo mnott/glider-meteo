@@ -25,6 +25,8 @@ The atmosphere consists of three main components:
 
 **What this means**: The proportions of these gases remain remarkably constant up to about 80 km altitude. This stable composition is what allows life and flight to be possible. Nitrogen is inert (doesn't react), while oxygen supports combustion and respiration.
 
+
+
 ### 2. [Water Vapor](https://en.wikipedia.org/wiki/Water_vapor) (Vapeur d'eau)
 - **H₂O in gaseous form** - invisible!
 - Variable amount depending on location and weather conditions (0-4% of atmosphere)
@@ -33,8 +35,37 @@ The atmosphere consists of three main components:
 
 **What this means**: Unlike dry air components, water vapor varies dramatically by location (desert vs. ocean) and altitude (decreases with height). When air rises and cools, water vapor condenses into visible clouds - this is essential for understanding soaring conditions.
 
-**Desert Flying (Low Water Vapor)**:
+#### Why Water Vapor is "Fuel" - The Turbo Boost Effect
 
+Think of water vapor like a **turbocharger for thermals**. Here's how it works:
+
+**The "Fuel" Mechanism**:
+1. **Dry thermal**: Rising air cools at [9.8°C/km](theory/01%20-%20laps%20rate.md) - steady but limited power
+2. **Moist thermal**: Carries invisible water vapor as it rises
+3. **At condensation level**: Water vapor "ignites" (condenses into droplets)
+4. **Energy release**: Condensation releases massive energy - ~2260 kJ per kg of water!
+5. **Turbo boost**: This energy heats the air, making the thermal much stronger
+
+**The Analogy**: 
+- **Water vapor** = rocket fuel carried in your gas tank
+- **Condensation** = fuel burning in the engine  
+- **Latent heat** = energy released by burning fuel
+- **Result** = thermal gets a powerful boost, climbs higher and stronger
+
+**Why It's Self-Reinforcing**:
+- Stronger thermal → pulls up more moist air → more condensation → more energy release → even stronger thermal
+- It's like a rocket that gets more powerful as it burns fuel!
+
+**Visual Cue for Pilots**: 
+- **No clouds** = thermal running on "basic power" (dry adiabatic)
+- **Cumulus forming** = thermal just hit "turbo boost" (condensation started)
+- **Growing cumulus** = thermal in "full afterburner mode" (lots of condensation energy)
+
+This is why moist air thermals with cumulus clouds are often much stronger and go much higher than "blue" (dry) thermals - they're literally powered by this extra energy source!
+
+#### Water Vapor in Different Environments
+
+**Desert Flying (Low Water Vapor)**:
 - **"Blue thermals"**: Strong thermals with NO visible clouds - air never reaches condensation level
 - **Very high cloud bases**: IF clouds form, they're typically 4000m+ above ground
 - **Excellent visibility**: Crystal clear air, can see for hundreds of kilometers
@@ -42,7 +73,6 @@ The atmosphere consists of three main components:
 - **Stronger surface heating**: Dry ground heats more intensely than water
 
 **Ocean Flying (High Water Vapor)**:
-
 - **Easy thermal identification**: Cumulus clouds clearly mark every thermal column
 - **Lower cloud bases**: Typically 800-2000m above surface due to high humidity
 - **Reduced visibility**: Hazy conditions from water vapor in air
@@ -50,15 +80,14 @@ The atmosphere consists of three main components:
 - **Weaker but consistent thermals**: Ocean provides steady but gentler heating
 
 **The Physics**:
-
 - **Dewpoint**: Ocean air reaches condensation at lower altitude (high humidity)
 - **Condensation level**: Desert air must rise much higher before water vapor condenses
 - **Latent heat**: Ocean thermals get extra boost when water vapor condenses (releases energy)
 
 **Strategy Implications**:
-
 - **Desert**: Fly by ground features, watch for subtle indicators, expect "invisible" lift
 - **Ocean**: Follow cloud streets, use cumulus as thermal markers, plan for lower working altitudes
+
 
 ### 3. [Aerosols](https://en.wikipedia.org/wiki/Aerosol) (Aérosols)
 - Dust particles - poussières

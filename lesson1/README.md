@@ -20,7 +20,7 @@ By the end of this lesson, you should be able to:
 ## Topics Covered
 
 ### Foundation Concepts
-1. **[Atmospheric Structure](01_atmospheric_structure.md)** - Composition and layers of the atmosphere
+1. **[Atmospheric Structure](🧠%20Ideaverse/Segelflug/Theorie/Meteo/lesson1/01_atmospheric_structure.md)** - Composition and layers of the atmosphere
    - Learn about the troposphere (where we fly), stratosphere, and other layers
    - Understand why weather is confined to the troposphere
    - Essential for understanding the vertical extent of soaring
