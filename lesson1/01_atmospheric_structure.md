@@ -49,7 +49,7 @@ The atmosphere is divided into layers based on [temperature profiles](https://en
 ### [Troposphere](https://en.wikipedia.org/wiki/Troposphere) (Troposphère)
 - **Extends from surface to ~8-18 km** (varies by latitude)
 - **At our latitudes: 10-12 km thick**
-- Temperature **decreases** with altitude at ~6.5°C per 100m ([lapse rate](https://en.wikipedia.org/wiki/Lapse_rate))
+- Temperature **decreases** with altitude at ~6.5°C per 1000m ([lapse rate](https://en.wikipedia.org/wiki/Lapse_rate))
 - Contains ~80% of atmospheric mass
 - **Where all weather phenomena occur**
 - Top boundary: **[Tropopause](https://en.wikipedia.org/wiki/Tropopause)** (tropopause)
