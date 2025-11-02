@@ -50,6 +50,7 @@ Pressure understanding is critical because:
 - External air pressure compresses or expands chambers
 - Mechanical linkage shows pressure on dial
 - **Used in aircraft altimeters!**
+- [Here](https://www.youtube.com/watch?v=0xkNFN5j6Wo) is a Youtube Video explaining how it works.
 
 **What this means**: Your glider's altimeter is essentially an aneroid barometer that's been calibrated to show altitude instead of pressure. Understanding this helps you understand why altimeter settings matter.
 
