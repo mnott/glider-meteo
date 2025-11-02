@@ -127,6 +127,23 @@ Pressure is shown on weather maps using **[isobars](https://en.wikipedia.org/wik
 - Wind flows roughly parallel to isobars (due to Coriolis effect)
 - This helps you predict wind speed and direction for flight planning
 
+**More Explanations** 
+
+- [Here](https://www.youtube.com/watch?v=aUk4uRuqdRA) is a youtube video explaining Wind (horizontal movement of air) along
+	- Pressure gradients, so Pressure Gradient Force (PGF),
+	- Coriolis Force (CF), so with the spinning of the earth
+	- Frictional Force (FF), working opposite e.g. PGF
+- The spacing of isobars indicates the pressure gradient.
+- The closer the spacing of isobars, the steeper the pressure gradient, the stronger the winds.
+- The spacing is typically 4 mbar or 8 mbar
+
+![](pgf.png)
+
+![](isobars.png)
+
+
+
+
 ---
 
 ## Questions & Answers
