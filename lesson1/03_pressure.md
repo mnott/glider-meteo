@@ -94,6 +94,17 @@ Pressure understanding is critical because:
 - [This](https://youtu.be/1Y1Qi821n-s?t=147) Video explained it best for me
 - So in summary, I'd suggest to watch [this video](https://www.youtube.com/watch?v=il5TPcxrjKQ) all the way to the end; it explains all three force elements (pressure gradient, coriolis force and friction) very well.
 
+This last video explains best the effect of the coriolis effect. Taking the northern hemisphere,
+
+1. The earth's rotation always makes air molecules veer to the right as they move towards a e.g. a low pressure zone. This is best understood if you think of a cloud moving north from the equator: Because a point at the equator is moving faster in the direction of the rotation of the earth (eastwards) then a point at the north pole, as the cloud moves north, it will tend to overtake the point it is moving towards; from its perspective, its trajectory will appear bent to the right.
+2. Likewise, if we have a high pressure zone somewhere between north pole and equator, air is going to flow outward of that. Now imagine an air molecule that moves north towards the pole. As it started at a point where it was rotating with the earths rotation, but faster than its target at the pole, it will again overshoot to the right; from its perspective, its trajectory will again appear bent to the right.
+3. If we take this second case, we can understand that an object flowing downwind, being bent to the right, will ultimately follow the rotation of the earth, hence move clockwise. That's why air going from a high pressure system outwards, rotates clockwise on the northern hemisphere.
+4. Conversely, air going inwards towards a low pressure system on the northern hemisphere ultimately rotates counter-clockwise.
+
+You can see these forces at play in the middle row of the following diagrams:
+
+![](images/windforces.png)
+
 ### [High Pressure / Anticyclone](https://en.wikipedia.org/wiki/High-pressure_area) (Anticyclone - A)
 - Pressure higher than surrounding areas
 - Air **descends** (subsidence)
@@ -149,9 +160,9 @@ Pressure is shown on weather maps using **[isobars](https://en.wikipedia.org/wik
 - The closer the spacing of isobars, the steeper the pressure gradient, the stronger the winds.
 - The spacing is typically 4 mbar or 8 mbar
 
-![](pgf.png)
+![](images/pgf.png)
 
-![](isobars.png)
+![](images/isobars.png)
 
 
 
