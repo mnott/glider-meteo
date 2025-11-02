@@ -83,6 +83,17 @@ Pressure understanding is critical because:
 
 ## Pressure Systems
 
+
+### Here are some links to understand the Coriolis Force
+
+- [Video on the Coriolis Effect](https://www.youtube.com/watch?v=kCbMKSZZO9w)
+- [Video on the Coriolis Effect with Drones](https://www.youtube.com/watch?v=okaxKzoyMK0) - a very nice demonstration on a merry go-around
+- [Video with a good water jet demonstration](https://www.youtube.com/watch?v=w0Rr6UJGhS4) and [a similar video](https://www.youtube.com/watch?v=6L5UD240mCQ) with a ceiling camera
+- [Very short video which bridges to the spin direction](https://www.youtube.com/watch?v=HIyBpi7B-dE)
+- [Epic Flight Academy](https://www.youtube.com/watch?v=N_-Fjfl-abc) has a great set of videos out there, but fell short (for me anyway) in explaining the Anticyclone
+- [This](https://youtu.be/1Y1Qi821n-s?t=147) Video explained it best for me
+- So in summary, I'd suggest to watch [this video](https://www.youtube.com/watch?v=il5TPcxrjKQ) all the way to the end; it explains all three force elements (pressure gradient, coriolis force and friction) very well.
+
 ### [High Pressure / Anticyclone](https://en.wikipedia.org/wiki/High-pressure_area) (Anticyclone - A)
 - Pressure higher than surrounding areas
 - Air **descends** (subsidence)
