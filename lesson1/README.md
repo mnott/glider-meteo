@@ -25,7 +25,7 @@ By the end of this lesson, you should be able to:
    - Understand why weather is confined to the troposphere
    - Essential for understanding the vertical extent of soaring
 
-2. **[Temperature](🧠%20Ideaverse/Segelflug/Theorie/Meteo/lesson1/02_temperature.md)** - Units, measurement, and heat transfer
+2. **[Temperature](02_temperature.md)** - Units, measurement, and heat transfer
    - Master Celsius, Fahrenheit, and Kelvin conversions
    - Understand the diurnal temperature cycle and its effect on thermals
    - Learn how different surfaces heat and create thermal triggers
