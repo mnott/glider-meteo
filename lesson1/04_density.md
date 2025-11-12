@@ -109,4 +109,4 @@ On a hot summer day (30°C):
 
 ---
 
-*Related topics*: [Pressure](03_pressure.md), [Temperature](🧠%20Ideaverse/Segelflug/Theorie/Meteo/lesson1/02_temperature.md), [ISA Standard Atmosphere](05_isa_standard_atmosphere.md)
+*Related topics*: [Pressure](03_pressure.md), [Temperature](02_temperature.md), [ISA Standard Atmosphere](05_isa_standard_atmosphere.md)

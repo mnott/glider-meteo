@@ -167,4 +167,4 @@ The atmosphere is divided into layers based on [temperature profiles](https://en
 
 ---
 
-*Related topics*: [Temperature](🧠%20Ideaverse/Segelflug/Theorie/Meteo/lesson1/02_temperature.md), [Pressure](03_pressure.md), [ISA Standard Atmosphere](05_isa_standard_atmosphere.md)
+*Related topics*: [Temperature](02_temperature.md), [Pressure](03_pressure.md), [ISA Standard Atmosphere](05_isa_standard_atmosphere.md)

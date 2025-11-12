@@ -167,4 +167,4 @@ Actual atmosphere rarely matches ISA - and that's important to recognize!
 
 ---
 
-*Related topics*: [Temperature](🧠%20Ideaverse/Segelflug/Theorie/Meteo/lesson1/02_temperature.md), [Pressure](03_pressure.md), [Density](04_density.md), [Altimetry](06_altimetry.md)
+*Related topics*: [Temperature](02_temperature.md), [Pressure](03_pressure.md), [Density](04_density.md), [Altimetry](06_altimetry.md)
