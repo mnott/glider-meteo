@@ -148,7 +148,18 @@ Temperature changes occur through four main [heat transfer](https://en.wikipedia
   - Hottest months: July-August (Northern Hemisphere)
   - Coldest months: January-February (Northern Hemisphere)
 
-**What this means for glider pilots**: Understanding seasonal temperature patterns is crucial for flight planning throughout the year. In Switzerland's soaring season (April-October), spring flights have weaker but consistent thermals, peak summer offers strongest thermals but thunderstorm risk, while early autumn provides the best combination of thermal strength with stable weather. The temperature lag means August can have stronger thermals than June despite shorter daylight hours because the ground has had months to warm up. This seasonal knowledge helps you plan cross-country flights and choose optimal flying days.
+**What this means for glider pilots**: Understanding seasonal temperature patterns is crucial for flight planning throughout the year. In Switzerland's soaring season (April-October), 
+- spring flights have weaker but consistent thermals, 
+- peak summer offers strongest thermals but thunderstorm risk, while 
+- early autumn provides the best combination of thermal strength with stable weather.
+
+The temperature lag means August can have stronger thermals than June despite shorter daylight hours because the ground has had months to warm up. This seasonal knowledge helps you plan cross-country flights and choose optimal flying days.
+
+### Influence of Cloud Cover
+
+- During the day, cloud cover leads to less heating, but also
+- during the night, cloud cover leads to less cooling.
+
 
 ### Influence of Surface Type ([Albedo](https://en.wikipedia.org/wiki/Albedo))
 

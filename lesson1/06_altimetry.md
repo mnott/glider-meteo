@@ -29,7 +29,7 @@ The altimeter must be "set" to a reference pressure to display meaningful altitu
 
 ### Three Main Settings:
 
-## 1. [QFE](https://en.wikipedia.org/wiki/Altimeter_setting#QFE) - Field Elevation
+#### 1. [QFE](https://en.wikipedia.org/wiki/Altimeter_setting#QFE) - Field Elevation
 
 **QFE** = **Q**-code for **F**ield **E**levation = **Pressure measured at airfield level**
 
@@ -53,7 +53,7 @@ The altimeter must be "set" to a reference pressure to display meaningful altitu
 
 ---
 
-## 2. [QNH](https://en.wikipedia.org/wiki/Altimeter_setting#QNH) - Regional Pressure Setting
+##### 2. [QNH](https://en.wikipedia.org/wiki/Altimeter_setting#QNH) - Regional Pressure Setting
 
 **QNH** = **Q**-code for **N**autical **H**eight = **Pressure corrected to sea level using ISA conditions**
 
@@ -84,7 +84,7 @@ The altimeter must be "set" to a reference pressure to display meaningful altitu
 
 ---
 
-## 3. Standard Setting (1013.25 hPa) - Flight Levels
+#### 3. Standard Setting (1013.25 hPa) - Flight Levels
 
 **When set to 1013.25 hPa ([Standard Pressure](https://en.wikipedia.org/wiki/Flight_level)), the altimeter shows:**
 - **Flight Level (FL)** - height above the 1013.25 hPa pressure surface
@@ -122,7 +122,7 @@ The altimeter must be "set" to a reference pressure to display meaningful altitu
 
 ---
 
-## QFF vs QNH
+#### QFF vs QNH
 
 - **[QFF](https://en.wikipedia.org/wiki/Altimeter_setting#QFF)**: Pressure corrected to sea level using **actual** temperature
 - **QNH**: Pressure corrected to sea level using **ISA** temperature
