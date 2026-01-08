@@ -149,14 +149,14 @@ For comparison, the [International Standard Atmosphere](https://en.wikipedia.org
 
 **For pilots**: Compare the actual atmospheric lapse rate to the adiabatic rates to determine stability (covered in next section).
 
-Perfect! Now I see what you're asking about. Looking at [Troposphere](01_atmospheric_structure.md#troposphere), I can see the key difference:
+Perfect! Now I see what you're asking about. Looking at [Troposphere](../lesson1/01_atmospheric_structure.md#troposphere-troposphère), I can see the key difference:
 
 ## 0.65°C vs 0.6°C per 100m - Critical Meteorological Distinction - The CRUCIAL Difference That Makes or Breaks Thermals
 
 This tiny **0.05°C difference** is actually the key to understanding when thermals will work and when they won't!
 
 ### **0.65°C/100m** (or 6.5°C/1000m)
-From [Troposphere](01_atmospheric_structure.md#troposphere):
+From [Troposphere](../lesson1/01_atmospheric_structure.md#troposphere-troposphère):
 
 - **Environmental Lapse Rate** (also called Standard Atmospheric Lapse Rate)
 - How temperature **normally decreases** in the **static atmosphere**
